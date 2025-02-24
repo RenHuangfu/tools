@@ -1,4 +1,4 @@
-module tools
+module github.com/RenHuangfu/tools
 
 go 1.23.6
 
